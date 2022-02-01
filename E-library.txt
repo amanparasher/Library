@@ -54,10 +54,10 @@ int main()
             scanf(" %s", lib[i].book_name);
 
             printf("  Enter author name = ");
-            scanf(" %s", lib[i].author);
+            scanf(" %s*s", lib[i].author);
 
             printf(" Enter pages = ");
-            scanf(" %d", &lib[i].pages);
+            scanf(" %d*d", &lib[i].pages);
 
             printf(" Enter price = ");
             scanf(" %f", &lib[i].price);
