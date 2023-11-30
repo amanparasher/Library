@@ -40,7 +40,7 @@ WELCOME TO E-LIBRARY
 
 Enter one of the above: 1
 Enter book name = Programming101
-Enter author name = JohnDoe
+Enter author name = JohnWick
 Enter pages = 300
 Enter price = 25.50
 
@@ -54,7 +54,7 @@ WELCOME TO E-LIBRARY
 
 Enter one of the above: 2
 you have entered the following information
-book name = Programming101   author name = JohnDoe   pages = 300   price = 25.500000
+book name = Programming101   author name = JohnWick   pages = 300   price = 25.500000
 
 WELCOME TO E-LIBRARY
 
@@ -65,7 +65,7 @@ WELCOME TO E-LIBRARY
 5. Exit
 
 Enter one of the above: 3
-Enter author name : JohnDoe
+Enter author name : JohnWick
 Programming101 JohnDoe 300 25.500000
 
 WELCOME TO E-LIBRARY
