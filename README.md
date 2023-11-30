@@ -66,7 +66,7 @@ WELCOME TO E-LIBRARY
 
 Enter one of the above: 3
 Enter author name : JohnWick
-Programming101 JohnDoe 300 25.500000
+Programming101 JohnWick 300 25.500000
 
 WELCOME TO E-LIBRARY
 
