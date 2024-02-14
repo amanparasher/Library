@@ -3,7 +3,7 @@
 This simple C program implements a basic E-Library Management System, allowing users to add book information, display book information, list books by a specific author, and obtain the count of books in the library.
 
 ## Features
-- Add book information: Enter details such as book name, author name, number of pages, and price.
+- Add book information: Enter details such as book name, author name, number of pages, and price..
 - Display book information: View the details of all entered books.
 - List books by author: Retrieve and display books by a specified author.
 - Count of books: Obtain the total count of books in the library.
